@@ -14,3 +14,7 @@ this example is to show different parts of the git repository and various comman
 This is a simple web project,deployment can be on any web server or even local file system.
 
 ## How to Contribute
+
+### copyright
+
+Git chercher.tech training
