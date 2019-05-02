@@ -3,6 +3,8 @@
 
 # TEAM
 
+chercher.tech Git Training
+
     <name> -- <role> -- <twitter>
 
 # THANKS
