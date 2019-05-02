@@ -15,6 +15,8 @@ This is a simple web project,deployment can be on any web server or even local f
 
 ## How to Contribute
 
+please fork this repository and then issue the pull request for review
+
 ### copyright
 
 Git chercher.tech training
