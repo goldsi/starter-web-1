@@ -19,4 +19,4 @@ please fork Git repository and then issue the pull request for review
 
 ### copyright
 
-Git chercher.tech training
+Git chercher.tech training. All rights reserved
