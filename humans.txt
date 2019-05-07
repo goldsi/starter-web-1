@@ -9,6 +9,8 @@ chercher.tech
 
 # THANKS
 
+Please leave a review if you like this article
+
     <name>
 
 # TECHNOLOGY COLOPHON
